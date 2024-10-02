@@ -1,3 +1,4 @@
+package U2T3_ModifyingObjectState;
 public class Cat {
     //instance variables
     private String name;

@@ -1,3 +1,5 @@
+package U2T3_ModifyingObjectState;
+
 public class GameRunner {
     public static void main(String[] args) {
         Game game = new Game("Dodge Ball", 5);

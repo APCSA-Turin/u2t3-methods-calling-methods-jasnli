@@ -1,3 +1,4 @@
+package U2T3_ModifyingObjectState;
 public class Game {
     // INSTANCE VARIABLES
     String gameName;
